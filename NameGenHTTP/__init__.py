@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*- #
+
 """
 * Copyright (c) 2014, Loïc BLOT <http://www.unix-experience.fr>
 * All rights reserved.
